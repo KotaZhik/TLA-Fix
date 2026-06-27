@@ -3,7 +3,7 @@ Fixes bugs and adds quality-of-life improvements for both TLA games.
 
 > ⚠️ **REQUIRES ORIGINAL GAME:** This mod does NOT include game files. You must own the game on Steam:
 > - [That Level Again](https://store.steampowered.com/app/3337220/That_Level_Again/)
-> - [That Level Again 2](https://store.steampowered.com/app/3337220/That_Level_Again_2/)
+> - [That Level Again 2](https://store.steampowered.com/app/4008290/That_Level_Again_2/)
 
 ## TLA 1 Fixes
 
